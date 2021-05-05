@@ -3,4 +3,5 @@ public class bioskop {
     //hai 
     //tessasdas
     //hai rama
+    //ris ojok ngamuk ris
 }
