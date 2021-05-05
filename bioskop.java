@@ -4,4 +4,5 @@ public class bioskop {
     //tessasdas
     //hai rama
     //ris ojok ngamuk ris
+    //tess risa wes gk ngamuk
 }
